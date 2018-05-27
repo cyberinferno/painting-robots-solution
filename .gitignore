@@ -1,0 +1,5 @@
+# PHP Storm file
+.idea
+
+# Composer vendor
+vendor
